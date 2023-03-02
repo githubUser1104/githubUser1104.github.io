@@ -1,3 +1,3 @@
-# githubUser1104
+# all pages in github.io
 
-- [blog-self](https://githubuser1104.github.io/blog-self/)
+- [tree-blog](https://githubuser1104.github.io/tree-blog/)
